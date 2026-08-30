@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Mulapin mark">
+  <!-- Canonical gravitational lens-ring display mark. The geometry and
+       palette intentionally match the Joshua McElwee identity system. -->
+  <circle cx="100" cy="100" r="37" fill="#000000"/>
+  <circle cx="100" cy="100" r="40" fill="none" stroke="#C9A20E" stroke-width="7"/>
+  <g fill="none" stroke="#C9A20E">
+    <circle cx="100" cy="100" r="46.5" stroke-width="1.2" opacity="0.5"/>
+    <circle cx="100" cy="100" r="52" stroke-width="2.6" opacity="0.5"/>
+    <circle cx="100" cy="100" r="67" stroke-width="1.9" opacity="0.28"/>
+    <circle cx="100" cy="100" r="85" stroke-width="1.4" opacity="0.14"/>
+  </g>
+</svg>
