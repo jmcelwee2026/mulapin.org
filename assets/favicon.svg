@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Mulapin mark">
+  <!-- Favicon build of the Mulapin mark: simplified three-ring cut of the
+       lens-ring mark for small-size tab legibility; warm ink field for
+       light and dark tabs; stroke is the brand gold. Full display
+       geometry lives inline on the site pages. -->
+  <rect width="200" height="200" fill="#17140E"/>
+  <g fill="none" stroke="#C9A20E">
+    <circle cx="100" cy="100" r="46" stroke-width="10"/>
+    <circle cx="100" cy="100" r="66" stroke-width="4" opacity="0.5"/>
+    <circle cx="100" cy="100" r="84" stroke-width="3" opacity="0.25"/>
+  </g>
+</svg>
