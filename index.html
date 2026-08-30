@@ -202,6 +202,7 @@ footer{background:var(--ink); border-top:2px solid var(--gold)}
   .hero{grid-template-columns:1fr}
   .hero-art{min-height:320px}
   .masthead{flex-direction:column; align-items:flex-start; gap:1.1rem}
+  .masthead .brand .mark{width:56px; height:56px}
   .masthead nav{display:grid; grid-template-columns:repeat(3,max-content); justify-content:flex-start; gap:.65rem 1.6rem; width:100%; min-width:0}
   .foot-founded{border-left:none; padding-left:0}
   .foot-icons{margin-left:0}
@@ -334,14 +335,14 @@ footer{background:var(--ink); border-top:2px solid var(--gold)}
         <circle cx="580" cy="380" r=".7" opacity=".3"/>
       </g>
 
-      <!-- wide orbital arcs -->
+      <!-- wide orbital arcs, kept deliberately faint so they read as space art rather than a second mark -->
       <g fill="none" stroke="#C9A20E">
-        <circle cx="1260" cy="-140" r="800" stroke-width="1.4" opacity=".14"/>
-        <circle cx="1330" cy="-80" r="1000" stroke-width="1.1" opacity=".09"/>
+        <circle cx="1260" cy="-140" r="800" stroke-width="1.4" opacity=".05"/>
+        <circle cx="1330" cy="-80" r="1000" stroke-width="1.1" opacity=".03"/>
       </g>
 
-      <!-- ring system, echoing the mark -->
-      <g>
+      <!-- compact ring system: a secondary astronomical detail, not an oversized duplicate logo -->
+      <g transform="translate(765 185) scale(.20) translate(-765 -185)">
         <circle cx="765" cy="185" r="16" fill="#F3D65C" opacity=".8" filter="url(#soft)"/>
         <circle cx="765" cy="185" r="7.5" fill="#F6ECC2"/>
         <g fill="none" stroke="#C9A20E">
