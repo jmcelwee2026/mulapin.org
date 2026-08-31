@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300" role="img" aria-label="Mulapin Research Group logo">
+  <!-- LinkedIn company-page cut: the canonical Mulapin lens-ring mark,
+       centered without geometric alteration on the canonical ink field. -->
+  <rect width="300" height="300" fill="#14161A"/>
+  <circle cx="150" cy="150" r="37" fill="#000000"/>
+  <circle cx="150" cy="150" r="40" fill="none" stroke="#C9A20E" stroke-width="7"/>
+  <g fill="none" stroke="#C9A20E">
+    <circle cx="150" cy="150" r="46.5" stroke-width="1.2" opacity="0.5"/>
+    <circle cx="150" cy="150" r="52" stroke-width="2.6" opacity="0.5"/>
+    <circle cx="150" cy="150" r="67" stroke-width="1.9" opacity="0.28"/>
+    <circle cx="150" cy="150" r="85" stroke-width="1.4" opacity="0.14"/>
+  </g>
+</svg>
